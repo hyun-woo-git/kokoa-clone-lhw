@@ -9,7 +9,7 @@
 }
 
 .user-component__avatar {
-    width: 70px;
+    width: 55px;
     height: 70px;
     border-radius: 30px;
     margin-right: 20px;
@@ -27,7 +27,7 @@
 }
 
 .user-component__avatar--xl {
-    width: 70px;
+    width: 65px;
     height: 80px;
 }
 
