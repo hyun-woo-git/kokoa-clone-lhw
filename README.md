@@ -1,3 +1,7 @@
-# Kokoa Clone 2021 lhw
+# kokoa-clone
+ 
+## 목적
+1. html/css 연습
+2. 웹페이지의 구동 이해
 
-Html & Css are so much fun!
+## 카카오톡을 웹페이지로 만들어본것
